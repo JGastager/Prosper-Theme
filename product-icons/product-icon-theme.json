@@ -1,0 +1,27 @@
+{
+  "fonts": [
+        {
+            "id": "bundy-dummy-font",
+            "src": [
+                {
+                    "path": "./dummy.woff",
+                    "format": "woff"
+                }
+            ],
+            "weight": "normal",
+            "style": "normal"
+        }
+    ],
+  "iconDefinitions": {
+    "view-explorer": { "iconPath": "./icons/document-library.svg" },
+    "view-search": { "iconPath": "./icons/search.svg" },
+    "view-scm": { "iconPath": "./icons/source-control.svg" },
+    "view-debug": { "iconPath": "./icons/debug.svg" },
+    "extensions-view-icon": { "iconPath": "./icons/extensions.svg" },
+    "settings-gear": { "iconPath": "./icons/settings.svg" },
+    "accounts-view-bar-icon": { "iconPath": "./icons/user.svg" },
+    "chat-view-icon": { "iconPath": "./icons/ai-chat.svg" },
+    "live-share": { "iconPath": "./icons/collaborate.svg" },
+    "todo-tree-container": { "iconPath": "./icons/check-list.svg" }
+  }
+}

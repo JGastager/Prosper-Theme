@@ -4,7 +4,7 @@
   "description": "sleek theme",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.107.0"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Themes"
@@ -12,10 +12,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bundy Theme",
+        "label": "Bundy Color Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Bundy Theme-color-theme.json"
+        "path": "./themes/color-theme.json"
       }
+    ],
+    "productIconThemes": [
+        {
+            "id": "bundy-icons",
+            "label": "Bundy Product Icons",
+            "path": "./product-icons/product-icon-theme.json"
+        }
     ]
   }
 }
