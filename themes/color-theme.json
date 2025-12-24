@@ -1,5 +1,5 @@
 {
-	"name": "Bundy Theme",
+	"name": "Prosper Theme",
 	"colors": {
 		"editor.foreground": "#eeffff",
 		"sideBarTitle.foreground": "#bbbbbb",
@@ -92,7 +92,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "currentColorfff"
+				"foreground": "#ffffff"
 			}
 		},
 		{

@@ -1,7 +1,7 @@
 {
   "fonts": [
         {
-            "id": "bundy-dummy-font",
+            "id": "prosper-dummy-font",
             "src": [
                 {
                     "path": "./dummy.woff",

@@ -1,4 +1,4 @@
-# bundy-theme README
+# prosper-theme README
 
 ## Working with Markdown
 

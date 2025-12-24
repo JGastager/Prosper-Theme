@@ -1,6 +1,6 @@
 {
-  "name": "bundy-theme",
-  "displayName": "Bundy Theme",
+  "name": "prosper-theme",
+  "displayName": "Prosper Theme",
   "description": "sleek theme",
   "version": "0.0.1",
   "engines": {
@@ -12,15 +12,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bundy Color Theme",
+        "label": "Prosper Color Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/color-theme.json"
       }
     ],
     "productIconThemes": [
         {
-            "id": "bundy-icons",
-            "label": "Bundy Product Icons",
+            "id": "prosper-icons",
+            "label": "Prosper Product Icons",
             "path": "./product-icons/product-icon-theme.json"
         }
     ]
