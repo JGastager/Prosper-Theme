@@ -1,16 +1,12 @@
-# prosper-theme README
+# Prosper VS Code Theme
 
-## Working with Markdown
+**Prosper** is a dark, and minimal VS Code color theme built for focus and long coding sessions.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Overview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Deep charcoal background with a subtle cool tone  
+- Soft, balanced syntax colors — clear without being flashy  
+- Muted comments and calm UI chrome for low visual noise  
+- Clean contrast that keeps code readable and structured  
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Prosper prioritizes clarity and visual harmony, letting your code stand out — not the theme.
